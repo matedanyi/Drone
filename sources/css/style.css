@@ -1,0 +1,115 @@
+
+.bluebcg {
+    background-color: #0c273c;
+    color: white;
+}
+
+.orangebcg, .diamond{
+    background-color: #ff5b5b !important; 
+}
+
+.diamond {
+    box-shadow: 2px 2px;
+}
+.orangetext {
+    color: #ff5b5b !important;
+}
+
+.whitetext {
+    color: white;
+}
+
+#navaboutus {
+    color: #ff5b5b;
+}
+
+#nav {
+    font-size: small;
+}
+
+.ourteam {
+    color: #ff5b5b;
+    font-size: 2em;
+    font-weight: bold;
+    padding: 20px 0px;
+
+}
+
+.dronePics{
+    max-width: 95%;
+    height: auto;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.blueText {
+    color: #0c273c;
+}
+
+.bluehalfsize {
+    color: #0c273c;
+    font-size: 0.72em;
+}
+
+.blueTextBold {
+    font-size: 0.69em;
+    color: #0c273c;
+    font-weight: bold;
+}
+
+.greyBcg {
+    background-color: lightgrey;
+}
+
+.lightGrey {
+    background-color: rgb(235, 235, 235);
+}
+
+.whitebcg {
+    background-color: white;
+}
+
+.smallText {
+    font-size: x-small;
+}
+
+.smallerText {
+    font-size: xx-small;
+}
+
+.greyText {
+    color: grey;
+}
+
+.logo{
+    max-width: 30px;
+}
+
+.square {
+    height: 65px;
+    width: 65px;
+}
+
+.textCenter {
+    text-align: center;
+  }
+
+.orangeLine {
+    border-right: solid 2px #ff5b5b;
+}
+
+.greyLine {
+    border-right: solid 2px grey;;
+}
+
+.p5 {
+    padding: 5px;
+}
+
+button {
+    border-radius: 25px;
+    background-color: #ff5b5b;
+    color: white;
+}

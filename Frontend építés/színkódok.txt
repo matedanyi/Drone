@@ -1,0 +1,6 @@
+narancs fő szín: #ff5b5b
+kék fő szín: #0c273c
+logó szövegszín: #333333
+cím szövegszín: #1c3549
+betűszín: #b1b4b7
+link szín: #188ae2
